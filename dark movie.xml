@@ -61,3 +61,29 @@
    <title>Horror</title>
    <link>https://raw.githubusercontent.com/darkseid12/new/master/horro.xml</link>
 </dir>
+<dir>
+        <title>Funny Movies</title>
+        <tmdb>list/63097</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Disaster movies</title>
+        <tmdb>list/63722</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Space movies</title>
+        <tmdb>list/63176</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Suspense movies</title>
+        <tmdb>list/63312</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
