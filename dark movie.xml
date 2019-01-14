@@ -1,4 +1,7 @@
-
+<dir>
+<title>1 Play</title>
+<link>https://raw.githubusercontent.com/darkseid12/new/master/1%20play.xml</link>
+</dir>
 <dir>
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>
