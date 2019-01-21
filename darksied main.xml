@@ -18,13 +18,11 @@
    <title>Actors and Actess</title>
    <link>https://raw.githubusercontent.com/galactus2858/plus/master/actors%20and%20actess.xml</link>
 </dir>
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
 
-</xml>
-<plugin>
-    <name>Search</name>
-    <link>plugin://plugin.video.darkseid/?action=search</link>
-    <thumbnail></thumbnail>
-</plugin>
 <plugin>
     <name>Settings</name>
     <link>plugin://plugin.video.darkseid/?action=openSettings</link>
