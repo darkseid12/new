@@ -2,26 +2,26 @@
 <dir>
 <title>Stage Plays</title>
 <tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
-<thumbnail>https://dotesports-cdn-prod-tqgiyve.stackpathdns.com/thumbor/kr4ZmGouUTCryyiQ6hWw4bxqhC0=/1200x0/filters:no_upscale()/https://dotesports-cdn-prod-tqgiyve.stackpathdns.com/article/221bd4e7-6ada-40c4-9e1d-77031f6c6dfb.png</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>Motown</title>
 <tmdb>list/https://www.themoviedb.org/list/51461</tmdb>
-<thumbnail>https://vignette.wikia.nocookie.net/overwatch/images/0/0e/Doomfist_portrait.png/revision/latest?cb=20170807035611</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 <xml>
   <dir>
     <title>Concert</title>
     <link>https://raw.githubusercontent.com/Overwatch12/doomfist/master/concert.xml</link>
-	<thumbnail>https://cdnb.artstation.com/p/assets/images/images/008/944/333/large/randy-hernandez-screenshot003.jpg?1516229874</thumbnail>
+	<thumbnail></thumbnail>
   </dir>
 
 <xml>
   <dir>
     <title>Actors</title>
     <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
-	<thumbnail>https://www.artsfon.com/large/201801/154319.jpg</thumbnail>
+	<thumbnail></thumbnail>
   </dir>
 <dir>
 <title>50 cent/DMX</title>
@@ -81,49 +81,45 @@
  <dir>
   <title>Hood Movies</title>
   <link>https://raw.githubusercontent.com/lost50/collector/master/icu%20hood.xml</link>
-  <thumbnail>https://www.artsfon.com/pic/201802/1920x1080/artsfon.com-158882.jpg</thumbnail>
+  <thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>B Movies</title>
 <tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
-<thumbnail>http://overwatch.blizzplanet.com/wp-content/uploads/2017/07/overwatch-doomfist-anime.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>B Movies 2</title>
 <tmdb>list/https://www.themoviedb.org/list/51248</tmdb>
-<thumbnail>https://techraptor.net/wp-content/uploads/2017/07/Overwatch-Doomfist-Meteor-Strike-Landing-Highlight-Intro.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>lovers only</title>
 <tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
-<thumbnail>https://pre00.deviantart.net/f369/th/pre/i/2017/189/c/0/doomfist_by_wandakun-dbfjlxh.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>Dance</title>
 <tmdb>list/https://www.themoviedb.org/list/48623</tmdb>
-<thumbnail>https://pm1.narvii.com/6533/3889529c2c7e7d35261d6565f1203a4b1bd772a8_hq.jpg</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <xml>
   <dir>
     <title>Comedy</title>
     <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
-	<thumbnail>https://orig00.deviantart.net/d973/f/2017/199/c/b/cb8b6d60ac6e7e0ce76769e461825f97-dbgruqy.png</thumbnail>
-  </dir>
+	<thumbnail></thumbnail>
+ </dir>
 
-   <dir>
-<title>Urban TV</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
-<thumbnail>https://i.imgur.com/YMlWNBK.jpg</thumbnail>
-</dir>
  <dir>
-<title>Urban</title>
+<title>Urban Tv</title>
 <tmdb>list/https://www.themoviedb.org/list/97693</tmdb>
 </dir>
+
  <dir>
 <title>Urban gangster movies</title>
 <tmdb>list/https://www.themoviedb.org/list/101974</tmdb>

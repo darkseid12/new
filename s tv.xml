@@ -31,7 +31,10 @@
 <title>Medieval</title>
 <tmdb>list/https://www.themoviedb.org/list/97691</tmdb>
 </dir>
-
+<dir>
+<title>Medieval 2</title>
+<tmdb>list/https://www.themoviedb.org/list/64001</tmdb>
+</dir>
 <dir>
 <title>game shows</title>
 <tmdb>list/https://www.themoviedb.org/list/97970</tmdb>
